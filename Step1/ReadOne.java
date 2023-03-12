@@ -13,7 +13,7 @@ public class ReadOne
             // Create the Scanner object using the file
             // as input
             Scanner fileIn = new Scanner(new File("input.txt"));
-            
+
             /* Loop while the file still has lines.
              * .hasNext() looks to see if a line exists
              * but it doesn't read the line.
